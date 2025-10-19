@@ -1,0 +1,5 @@
+{
+  "name": "Protect Robot MaiCa - Scam Detector",
+  "description": "An application to detect scams from text, emails, usernames, invitations, or links. Users can input information for analysis and refresh to start a new check. Developed by Machermax Entertainment Group and Machermax Development.",
+  "requestFramePermissions": []
+}
